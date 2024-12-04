@@ -33,13 +33,6 @@ Let’s build the future of technology together! 🌈
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtalhajalil&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtalhajalil&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🎨 Projects and Repositories
