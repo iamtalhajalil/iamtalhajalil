@@ -1,67 +1,67 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+# Hi, I'm Talha Jalil 👋
 
-Hi there! I'm a passionate **DevOps Engineer** and **Cloud Enthusiast** who loves building scalable, efficient, and innovative solutions. 🚀  
-Let’s build the future of technology together! 🌈
+🚀 DevOps Engineer | AWS | Kubernetes | CI/CD | Docker | Terraform  
 
----
-
-## ✨ About Me
-- 🔭 **Currently working on**: Cloud-native solutions and Kubernetes orchestration.
-- 🌱 **Learning more about**: Serverless architecture and advanced DevOps pipelines.
-- 🤝 **Open to collaborating on**: Cloud, DevOps, and Full-Stack development projects.
-- 💬 **Ask me about**: AWS, DevOps tools, or programming in general!
-- ⚡ **Fun Fact**: I love solving logic puzzles and playing chess! ♟️
+I am a DevOps Engineer with hands-on experience in building, automating, and managing scalable infrastructure across cloud (AWS) and on-prem environments. I focus on creating reliable deployment pipelines, containerized applications, and production-ready systems.
 
 ---
 
-## 🛠️ Skills and Technologies
+## 🧑‍💻 What I Do
 
-### 🌐 Programming Languages
-- 💻 **C++**
-- 🐍 **Python**
-- ☕ **Java**
-- 💎 **C#**
-- 🌐 **HTML/CSS**
-
-### ☁️ Cloud & DevOps
-- ☁️ **AWS** (EC2, S3, Lambda, CloudFormation)
-- 🛠️ **DevOps Tools** (Jenkins, Docker, Kubernetes, Terraform, Ansible)
-
-### 🗄️ Databases
-- 📊 **SQL**
-- 🍃 **MongoDB**
+- Design and manage CI/CD pipelines for automated deployments  
+- Deploy and manage applications on Kubernetes (EKS & on-prem)  
+- Build and optimize Docker containers  
+- Provision and manage AWS infrastructure (EC2, VPC, Load Balancers, Auto Scaling)  
+- Implement Infrastructure as Code using Terraform  
+- Set up monitoring and logging systems for production environments  
+- Manage Linux servers and ensure high availability  
 
 ---
 
----
+## 🛠️ Tech Stack
 
-## 🎨 Projects and Repositories
+**Cloud & Infrastructure:**  
+AWS (EC2, VPC, EKS, S3, IAM, ELB, ASG, CloudWatch)
 
-### 🌟 Featured Projects
-- 🌐 [PetClinic on Kubernetes](https://github.com/imtalhajalil/PetClinic-on-Kubernetes)  
-  **Description**: A sample application deployed using Kubernetes to demonstrate container orchestration and scaling.
+**DevOps Tools:**  
+Docker, Kubernetes, Terraform, Nginx  
 
-- 🛠️ [DevOps Automation Toolkit](#)  
-  **Description**: A set of scripts and pipelines to streamline DevOps processes.
+**CI/CD:**  
+GitHub Actions, Jenkins, Azure DevOps  
 
-### 📁 Check out more repositories on [my GitHub profile](https://github.com/iamtalhajalil) 🚀
+**Monitoring & Logging:**  
+Prometheus, Grafana, Loki, cAdvisor  
 
----
-
-## 🌍 Connect with Me
-- 📧 Email: [i210559@nu.edu.pk](mailto:i210559@nu.edu.pk)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com)
+**Languages & Scripting:**  
+Python, Bash, YAML, JSON  
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+## 📦 Featured Work
 
-<p align="center">
-  ✨ **Keep exploring, keep building!** ✨
-</p>
+### 🔹 CI/CD Pipeline Automation
+Automated build, test, and deployment workflows using GitHub Actions, Jenkins, and Azure DevOps with Docker-based deployments.
+
+### 🔹 Kubernetes & GitOps Deployments
+Managed scalable Kubernetes deployments on AWS (EKS) and on-prem environments, with GitOps workflows using ArgoCD.
+
+### 🔹 Monitoring & Logging System
+Built a centralized monitoring stack using Prometheus, Grafana, and Loki for real-time metrics, logs, and performance tracking.
+
+---
+
+## 📈 Current Focus
+
+- Improving Kubernetes and GitOps workflows  
+- Building scalable and production-grade DevOps systems  
+- Exploring advanced cloud architecture patterns  
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/talha-jalil/  
+
+---
+
+⭐ Always open to collaboration and DevOps opportunities!
